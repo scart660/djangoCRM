@@ -1,0 +1,2 @@
+# djangoCRM
+Django CRM course
